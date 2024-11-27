@@ -13,7 +13,12 @@ This is a simple Todo app built using Django. The app allows users to create, ed
 
 ### Index Page
 ![Index Page](https://github.com/user-attachments/assets/217738a2-ff1d-46f9-a8e0-878ae467057e)
-
+### CRUD Operations
+![image](https://github.com/user-attachments/assets/5e211bff-fdba-4f8a-97fd-e8df4f484fcd)
+![image](https://github.com/user-attachments/assets/8a38b298-f8e1-4526-bd2e-2876aff84aa9)
+![image](https://github.com/user-attachments/assets/9ebd826f-3960-4f51-bbab-98fe5da5d8fe)
+## Mongo DB collections
+![image](https://github.com/user-attachments/assets/c13f12aa-c98c-4c7d-9160-239bcab984f4)
 
 ## Features
 - login
