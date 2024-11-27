@@ -5,8 +5,12 @@ This is a simple Todo app built using Django. The app allows users to create, ed
 
 
 ## Screenshots
-![App Screenshot]![Screenshot (218)](https://github.com/user-attachments/assets/217738a2-ff1d-46f9-a8e0-878ae467057e)
+![log in]![Screenshot (218)](![Screenshot (219)](https://github.com/user-attachments/assets/046786c0-79b0-499f-9102-4e4d284935d0)
+![sign up](https://github.com/user-attachments/assets/c5fb6cb9-9467-4923-8d12-42bd8779f081)
 ()
+![index page]![Screenshot (218)](https://github.com/user-attachments/assets/217738a2-ff1d-46f9-a8e0-878ae467057e)
+()
+
 
 
 ## Features
