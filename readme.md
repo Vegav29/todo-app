@@ -3,14 +3,16 @@
 This is a simple Todo app built using Django. The app allows users to create, edit, complete and delete tasks. The app also allows the user to filter tasks by status. The app uses Django's built-in message framework to display success, error and info messages to the user. This version of the app does not include any session-based or authentication features, so all tasks will appear in one place and may be accessible to all users. 
 
 
-
 ## Screenshots
-![log in]![Screenshot (218)](![Screenshot (219)](https://github.com/user-attachments/assets/046786c0-79b0-499f-9102-4e4d284935d0)
-![sign up](https://github.com/user-attachments/assets/c5fb6cb9-9467-4923-8d12-42bd8779f081)
-()
-![index page]![Screenshot (218)](https://github.com/user-attachments/assets/217738a2-ff1d-46f9-a8e0-878ae467057e)
-()
 
+### Log In
+![Log In](https://github.com/user-attachments/assets/046786c0-79b0-499f-9102-4e4d284935d0)
+
+### Sign Up
+![Sign Up](https://github.com/user-attachments/assets/c5fb6cb9-9467-4923-8d12-42bd8779f081)
+
+### Index Page
+![Index Page](https://github.com/user-attachments/assets/217738a2-ff1d-46f9-a8e0-878ae467057e)
 
 
 ## Features
