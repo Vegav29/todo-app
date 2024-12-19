@@ -2,6 +2,23 @@
 
 This is a simple Todo app built using Django. The app allows users to create, edit, complete and delete tasks. The app also allows the user to filter tasks by status. The app uses Django's built-in message framework to display success, error and info messages to the user. This version of the app does not include any session-based or authentication features, so all tasks will appear in one place and may be accessible to all users. 
 
+# live deployed link:
+https://todoap-latest.onrender.com
+## Docker Image
+
+The Docker image for this application is available on Docker Hub:
+`balaji33/todoap:latest`
+
+## Prerequisites
+
+- Docker must be installed on your system. You can follow the installation guide [here](https://docs.docker.com/get-docker/).
+
+## Running the Docker Container
+
+Follow these steps to run the Django Todo App container:
+
+### 1. Pull the Docker image
+First, pull the Docker image from Docker Hub:
 
 ## Screenshots
 
@@ -36,27 +53,10 @@ This is a simple Todo app built using Django. The app allows users to create, ed
 - Django 3.x
 
 ## Setup
-1. Clone the repository
 
 
-
-2. Install the requirements
-
-    `pip install -r requirements.txt`
-
-3. Run migrations
-
-    `python manage.py makemigrations`
-
-    `python manage.py migrate`
-
-4. Run the development server
-
-    `python manage.py runserver`
-    
-5. Visit http://127.0.0.1:8000/ in your browser to access the app
-
-## Code Structure
+```bash
+docker pull balaji33/todoap:lateste Structure
 The code is structured as follows:
 - The `models.py` file contains the Todo models
 - The `forms.py` file contains the TodoForm and TodoFilterForm
